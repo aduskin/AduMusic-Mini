@@ -4,7 +4,7 @@
 由AduSkin设计开发的WPF桌面应用程序，支持多平台音乐搜索。
 
 ### 下载使用
-点击右侧 Releases 
+[下载软件](https://github.com/aduskin/AduMusic-Mini/releases)
 
 ### 预览
 
