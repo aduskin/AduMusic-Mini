@@ -6,7 +6,7 @@
 ### 下载使用
 点击右侧 Releases 
 
-预览
+### 预览
 
 ![image](https://github.com/aduskin/AduMusic-Mini/blob/master/screenshot/%E6%80%80%E6%97%A7plus.png)
 
