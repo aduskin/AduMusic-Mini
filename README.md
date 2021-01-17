@@ -8,7 +8,9 @@
 
 ### 预览
 
-![image](https://github.com/aduskin/AduSkin/blob/master/screenshot/project/AduMusic.jpg)
+![image](https://github.com/aduskin/AduMusic-Mini/blob/master/screenshot/adumusic2.jpg)
+
+![image](https://github.com/aduskin/AduMusic-Mini/blob/master/screenshot/AduMusic.jpg)
 
 ![image](https://github.com/aduskin/AduMusic-Mini/blob/master/screenshot/%E6%80%80%E6%97%A7plus.png)
 
